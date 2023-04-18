@@ -1,340 +1,340 @@
-Uri: https://astriamedia.in/
-File Name: C:\Downloaded Web Sites\astriamedia.in\index.htm
+Uri: https://Vaibhavmedia.in/
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\index.htm
 Content Type: text/html
 
-Uri: https://astriamedia.in/assets/css/animate.css
-File Name: C:\Downloaded Web Sites\astriamedia.in\assets\css\animate.css
+Uri: https://Vaibhavmedia.in/assets/css/animate.css
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\assets\css\animate.css
 Content Type: text/css
 
-Uri: https://astriamedia.in/assets/css/bootsnav.css
-File Name: C:\Downloaded Web Sites\astriamedia.in\assets\css\bootsnav.css
+Uri: https://Vaibhavmedia.in/assets/css/bootsnav.css
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\assets\css\bootsnav.css
 Content Type: text/css
 
-Uri: https://astriamedia.in/assets/css/bootstrap.min.css
-File Name: C:\Downloaded Web Sites\astriamedia.in\assets\css\bootstrap.min.css
+Uri: https://Vaibhavmedia.in/assets/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\assets\css\bootstrap.min.css
 Content Type: text/css
 
-Uri: https://astriamedia.in/assets/css/cubeportfolio.css
-File Name: C:\Downloaded Web Sites\astriamedia.in\assets\css\cubeportfolio.css
+Uri: https://Vaibhavmedia.in/assets/css/cubeportfolio.css
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\assets\css\cubeportfolio.css
 Content Type: text/css
 
-Uri: https://astriamedia.in/assets/css/custom-icons.min.css
-File Name: C:\Downloaded Web Sites\astriamedia.in\assets\css\custom-icons.min.css
+Uri: https://Vaibhavmedia.in/assets/css/custom-icons.min.css
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\assets\css\custom-icons.min.css
 Content Type: text/css
 
-Uri: https://astriamedia.in/assets/css/icofonts.min.css
-File Name: C:\Downloaded Web Sites\astriamedia.in\assets\css\icofonts.min.css
+Uri: https://Vaibhavmedia.in/assets/css/icofonts.min.css
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\assets\css\icofonts.min.css
 Content Type: text/css
 
-Uri: https://astriamedia.in/assets/css/master.css
-File Name: C:\Downloaded Web Sites\astriamedia.in\assets\css\master.css
+Uri: https://Vaibhavmedia.in/assets/css/master.css
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\assets\css\master.css
 Content Type: text/css
 
-Uri: https://astriamedia.in/assets/css/responsive.css
-File Name: C:\Downloaded Web Sites\astriamedia.in\assets\css\responsive.css
+Uri: https://Vaibhavmedia.in/assets/css/responsive.css
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\assets\css\responsive.css
 Content Type: text/css
 
-Uri: https://astriamedia.in/assets/css/slick.css
-File Name: C:\Downloaded Web Sites\astriamedia.in\assets\css\slick.css
+Uri: https://Vaibhavmedia.in/assets/css/slick.css
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\assets\css\slick.css
 Content Type: text/css
 
-Uri: https://astriamedia.in/assets/fonts/et-line.eot
-File Name: C:\Downloaded Web Sites\astriamedia.in\assets\fonts\et-line.eot
+Uri: https://Vaibhavmedia.in/assets/fonts/et-line.eot
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\assets\fonts\et-line.eot
 Content Type: application/vnd.ms-fontobject
 
-Uri: https://astriamedia.in/assets/fonts/et-line.eot?
-File Name: C:\Downloaded Web Sites\astriamedia.in\assets\fonts\et-line-1.eot
+Uri: https://Vaibhavmedia.in/assets/fonts/et-line.eot?
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\assets\fonts\et-line-1.eot
 Content Type: application/vnd.ms-fontobject
 
-Uri: https://astriamedia.in/assets/fonts/et-line.svg
-File Name: C:\Downloaded Web Sites\astriamedia.in\assets\fonts\et-line.svg
+Uri: https://Vaibhavmedia.in/assets/fonts/et-line.svg
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\assets\fonts\et-line.svg
 Content Type: image/svg+xml
 
-Uri: https://astriamedia.in/assets/fonts/et-line.ttf
-File Name: C:\Downloaded Web Sites\astriamedia.in\assets\fonts\et-line.ttf
+Uri: https://Vaibhavmedia.in/assets/fonts/et-line.ttf
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\assets\fonts\et-line.ttf
 Content Type: application/x-font-ttf
 
-Uri: https://astriamedia.in/assets/fonts/et-line.woff
-File Name: C:\Downloaded Web Sites\astriamedia.in\assets\fonts\et-line.woff
+Uri: https://Vaibhavmedia.in/assets/fonts/et-line.woff
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\assets\fonts\et-line.woff
 Content Type: application/font-woff
 
-Uri: https://astriamedia.in/assets/fonts/icofont.eot?v=1.0.0-beta
-File Name: C:\Downloaded Web Sites\astriamedia.in\assets\fonts\icofont.eot
+Uri: https://Vaibhavmedia.in/assets/fonts/icofont.eot?v=1.0.0-beta
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\assets\fonts\icofont.eot
 Content Type: application/vnd.ms-fontobject
 
-Uri: https://astriamedia.in/assets/fonts/icofont.svg?v=1.0.0-beta
-File Name: C:\Downloaded Web Sites\astriamedia.in\assets\fonts\icofont.svg
+Uri: https://Vaibhavmedia.in/assets/fonts/icofont.svg?v=1.0.0-beta
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\assets\fonts\icofont.svg
 Content Type: image/svg+xml
 
-Uri: https://astriamedia.in/assets/fonts/icofont.ttf?v=1.0.0-beta
-File Name: C:\Downloaded Web Sites\astriamedia.in\assets\fonts\icofont.ttf
+Uri: https://Vaibhavmedia.in/assets/fonts/icofont.ttf?v=1.0.0-beta
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\assets\fonts\icofont.ttf
 Content Type: application/x-font-ttf
 
-Uri: https://astriamedia.in/assets/fonts/icofont.woff?v=1.0.0-beta
-File Name: C:\Downloaded Web Sites\astriamedia.in\assets\fonts\icofont.woff
+Uri: https://Vaibhavmedia.in/assets/fonts/icofont.woff?v=1.0.0-beta
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\assets\fonts\icofont.woff
 Content Type: application/font-woff
 
-Uri: https://astriamedia.in/assets/fonts/ionicons.eot?v=2.0.0
-File Name: C:\Downloaded Web Sites\astriamedia.in\assets\fonts\ionicons.eot
+Uri: https://Vaibhavmedia.in/assets/fonts/ionicons.eot?v=2.0.0
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\assets\fonts\ionicons.eot
 Content Type: application/vnd.ms-fontobject
 
-Uri: https://astriamedia.in/assets/fonts/ionicons.svg?v=2.0.0
-File Name: C:\Downloaded Web Sites\astriamedia.in\assets\fonts\ionicons.svg
+Uri: https://Vaibhavmedia.in/assets/fonts/ionicons.svg?v=2.0.0
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\assets\fonts\ionicons.svg
 Content Type: image/svg+xml
 
-Uri: https://astriamedia.in/assets/fonts/ionicons.ttf?v=2.0.0
-File Name: C:\Downloaded Web Sites\astriamedia.in\assets\fonts\ionicons.ttf
+Uri: https://Vaibhavmedia.in/assets/fonts/ionicons.ttf?v=2.0.0
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\assets\fonts\ionicons.ttf
 Content Type: application/x-font-ttf
 
-Uri: https://astriamedia.in/assets/fonts/ionicons.woff?v=2.0.0
-File Name: C:\Downloaded Web Sites\astriamedia.in\assets\fonts\ionicons.woff
+Uri: https://Vaibhavmedia.in/assets/fonts/ionicons.woff?v=2.0.0
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\assets\fonts\ionicons.woff
 Content Type: application/font-woff
 
-Uri: https://astriamedia.in/assets/images/background/stars-bg-4.png
-File Name: C:\Downloaded Web Sites\astriamedia.in\assets\images\background\stars-bg-4.png
+Uri: https://Vaibhavmedia.in/assets/images/background/stars-bg-4.png
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\assets\images\background\stars-bg-4.png
 Content Type: image/png
 
-Uri: https://astriamedia.in/assets/images/background/stars-bg.png
-File Name: C:\Downloaded Web Sites\astriamedia.in\assets\images\background\stars-bg.png
+Uri: https://Vaibhavmedia.in/assets/images/background/stars-bg.png
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\assets\images\background\stars-bg.png
 Content Type: image/png
 
-Uri: https://astriamedia.in/assets/images/browser-screen.png
-File Name: C:\Downloaded Web Sites\astriamedia.in\assets\images\browser-screen.png
+Uri: https://Vaibhavmedia.in/assets/images/browser-screen.png
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\assets\images\browser-screen.png
 Content Type: image/png
 
-Uri: https://astriamedia.in/assets/images/cbp-loading.gif
-File Name: C:\Downloaded Web Sites\astriamedia.in\assets\images\cbp-loading.gif
+Uri: https://Vaibhavmedia.in/assets/images/cbp-loading.gif
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\assets\images\cbp-loading.gif
 Content Type: image/gif
 
-Uri: https://astriamedia.in/assets/images/cbp-sprite.png
-File Name: C:\Downloaded Web Sites\astriamedia.in\assets\images\cbp-sprite.png
+Uri: https://Vaibhavmedia.in/assets/images/cbp-sprite.png
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\assets\images\cbp-sprite.png
 Content Type: image/png
 
-Uri: https://astriamedia.in/assets/images/favicon.ico
-File Name: C:\Downloaded Web Sites\astriamedia.in\assets\images\favicon.ico
+Uri: https://Vaibhavmedia.in/assets/images/favicon.ico
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\assets\images\favicon.ico
 Content Type: image/x-icon
 
-Uri: https://astriamedia.in/assets/images/iMac-screen.png
-File Name: C:\Downloaded Web Sites\astriamedia.in\assets\images\iMac-screen.png
+Uri: https://Vaibhavmedia.in/assets/images/iMac-screen.png
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\assets\images\iMac-screen.png
 Content Type: image/png
 
-Uri: https://astriamedia.in/assets/images/ipad-screen.png
-File Name: C:\Downloaded Web Sites\astriamedia.in\assets\images\ipad-screen.png
+Uri: https://Vaibhavmedia.in/assets/images/ipad-screen.png
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\assets\images\ipad-screen.png
 Content Type: image/png
 
-Uri: https://astriamedia.in/assets/images/loader.svg
-File Name: C:\Downloaded Web Sites\astriamedia.in\assets\images\loader.svg
+Uri: https://Vaibhavmedia.in/assets/images/loader.svg
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\assets\images\loader.svg
 Content Type: image/svg+xml
 
-Uri: https://astriamedia.in/assets/images/logo-black.png
-File Name: C:\Downloaded Web Sites\astriamedia.in\assets\images\logo-black.png
+Uri: https://Vaibhavmedia.in/assets/images/logo-black.png
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\assets\images\logo-black.png
 Content Type: image/png
 
-Uri: https://astriamedia.in/assets/images/logo-footer.png
-File Name: C:\Downloaded Web Sites\astriamedia.in\assets\images\logo-footer.png
+Uri: https://Vaibhavmedia.in/assets/images/logo-footer.png
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\assets\images\logo-footer.png
 Content Type: image/png
 
-Uri: https://astriamedia.in/assets/images/logo-white-full.png
-File Name: C:\Downloaded Web Sites\astriamedia.in\assets\images\logo-white-full.png
+Uri: https://Vaibhavmedia.in/assets/images/logo-white-full.png
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\assets\images\logo-white-full.png
 Content Type: image/png
 
-Uri: https://astriamedia.in/assets/images/logo-white-sidemenu.png
-File Name: C:\Downloaded Web Sites\astriamedia.in\assets\images\logo-white-sidemenu.png
+Uri: https://Vaibhavmedia.in/assets/images/logo-white-sidemenu.png
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\assets\images\logo-white-sidemenu.png
 Content Type: image/png
 
-Uri: https://astriamedia.in/assets/images/macbook-screen.png
-File Name: C:\Downloaded Web Sites\astriamedia.in\assets\images\macbook-screen.png
+Uri: https://Vaibhavmedia.in/assets/images/macbook-screen.png
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\assets\images\macbook-screen.png
 Content Type: image/png
 
-Uri: https://astriamedia.in/assets/images/object/OBJ_ipad.png
-File Name: C:\Downloaded Web Sites\astriamedia.in\assets\images\object\OBJ_ipad.png
+Uri: https://Vaibhavmedia.in/assets/images/object/OBJ_ipad.png
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\assets\images\object\OBJ_ipad.png
 Content Type: image/png
 
-Uri: https://astriamedia.in/assets/images/object/OBJ_pen.png
-File Name: C:\Downloaded Web Sites\astriamedia.in\assets\images\object\OBJ_pen.png
+Uri: https://Vaibhavmedia.in/assets/images/object/OBJ_pen.png
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\assets\images\object\OBJ_pen.png
 Content Type: image/png
 
-Uri: https://astriamedia.in/assets/images/object/OBJ_phone.png
-File Name: C:\Downloaded Web Sites\astriamedia.in\assets\images\object\OBJ_phone.png
+Uri: https://Vaibhavmedia.in/assets/images/object/OBJ_phone.png
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\assets\images\object\OBJ_phone.png
 Content Type: image/png
 
-Uri: https://astriamedia.in/assets/images/object/OBJ_triangle.png
-File Name: C:\Downloaded Web Sites\astriamedia.in\assets\images\object\OBJ_triangle.png
+Uri: https://Vaibhavmedia.in/assets/images/object/OBJ_triangle.png
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\assets\images\object\OBJ_triangle.png
 Content Type: image/png
 
-Uri: https://astriamedia.in/assets/images/object/OBJ_triangle_s.png
-File Name: C:\Downloaded Web Sites\astriamedia.in\assets\images\object\OBJ_triangle_s.png
+Uri: https://Vaibhavmedia.in/assets/images/object/OBJ_triangle_s.png
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\assets\images\object\OBJ_triangle_s.png
 Content Type: image/png
 
-Uri: https://astriamedia.in/assets/images/portfolio/grid/1.jpg
-File Name: C:\Downloaded Web Sites\astriamedia.in\assets\images\portfolio\grid\1.jpg
+Uri: https://Vaibhavmedia.in/assets/images/portfolio/grid/1.jpg
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\assets\images\portfolio\grid\1.jpg
 Content Type: image/jpeg
 
-Uri: https://astriamedia.in/assets/images/portfolio/grid/2.jpg
-File Name: C:\Downloaded Web Sites\astriamedia.in\assets\images\portfolio\grid\2.jpg
+Uri: https://Vaibhavmedia.in/assets/images/portfolio/grid/2.jpg
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\assets\images\portfolio\grid\2.jpg
 Content Type: image/jpeg
 
-Uri: https://astriamedia.in/assets/images/portfolio/grid/3.jpg
-File Name: C:\Downloaded Web Sites\astriamedia.in\assets\images\portfolio\grid\3.jpg
+Uri: https://Vaibhavmedia.in/assets/images/portfolio/grid/3.jpg
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\assets\images\portfolio\grid\3.jpg
 Content Type: image/jpeg
 
-Uri: https://astriamedia.in/assets/images/portfolio/grid/4.jpg
-File Name: C:\Downloaded Web Sites\astriamedia.in\assets\images\portfolio\grid\4.jpg
+Uri: https://Vaibhavmedia.in/assets/images/portfolio/grid/4.jpg
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\assets\images\portfolio\grid\4.jpg
 Content Type: image/jpeg
 
-Uri: https://astriamedia.in/assets/images/portfolio/grid/5.jpg
-File Name: C:\Downloaded Web Sites\astriamedia.in\assets\images\portfolio\grid\5.jpg
+Uri: https://Vaibhavmedia.in/assets/images/portfolio/grid/5.jpg
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\assets\images\portfolio\grid\5.jpg
 Content Type: image/jpeg
 
-Uri: https://astriamedia.in/assets/images/portfolio/grid/6.jpg
-File Name: C:\Downloaded Web Sites\astriamedia.in\assets\images\portfolio\grid\6.jpg
+Uri: https://Vaibhavmedia.in/assets/images/portfolio/grid/6.jpg
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\assets\images\portfolio\grid\6.jpg
 Content Type: image/jpeg
 
-Uri: https://astriamedia.in/assets/images/team/team-1.jpg
-File Name: C:\Downloaded Web Sites\astriamedia.in\assets\images\team\team-1.jpg
+Uri: https://Vaibhavmedia.in/assets/images/team/team-1.jpg
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\assets\images\team\team-1.jpg
 Content Type: image/jpeg
 
-Uri: https://astriamedia.in/assets/images/team/team-2.jpg
-File Name: C:\Downloaded Web Sites\astriamedia.in\assets\images\team\team-2.jpg
+Uri: https://Vaibhavmedia.in/assets/images/team/team-2.jpg
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\assets\images\team\team-2.jpg
 Content Type: image/jpeg
 
-Uri: https://astriamedia.in/assets/images/team/team-3.jpg
-File Name: C:\Downloaded Web Sites\astriamedia.in\assets\images\team\team-3.jpg
+Uri: https://Vaibhavmedia.in/assets/images/team/team-3.jpg
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\assets\images\team\team-3.jpg
 Content Type: image/jpeg
 
-Uri: https://astriamedia.in/assets/images/transparent.png
-File Name: C:\Downloaded Web Sites\astriamedia.in\assets\images\transparent.png
+Uri: https://Vaibhavmedia.in/assets/images/transparent.png
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\assets\images\transparent.png
 Content Type: image/png
 
-Uri: https://astriamedia.in/assets/images/video-mockup.png
-File Name: C:\Downloaded Web Sites\astriamedia.in\assets\images\video-mockup.png
+Uri: https://Vaibhavmedia.in/assets/images/video-mockup.png
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\assets\images\video-mockup.png
 Content Type: image/png
 
-Uri: https://astriamedia.in/assets/js/jquery.min.js
-File Name: C:\Downloaded Web Sites\astriamedia.in\assets\js\jquery.min.js
+Uri: https://Vaibhavmedia.in/assets/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\assets\js\jquery.min.js
 Content Type: application/x-javascript
 
-Uri: https://astriamedia.in/assets/js/master.js
-File Name: C:\Downloaded Web Sites\astriamedia.in\assets\js\master.js
+Uri: https://Vaibhavmedia.in/assets/js/master.js
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\assets\js\master.js
 Content Type: application/x-javascript
 
-Uri: https://astriamedia.in/assets/js/plugins.js
-File Name: C:\Downloaded Web Sites\astriamedia.in\assets\js\plugins.js
+Uri: https://Vaibhavmedia.in/assets/js/plugins.js
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\assets\js\plugins.js
 Content Type: application/x-javascript
 
-Uri: https://astriamedia.in/index.html
-File Name: C:\Downloaded Web Sites\astriamedia.in\index.html
+Uri: https://Vaibhavmedia.in/index.html
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\index.html
 Content Type: text/html
 
-Uri: https://astriamedia.in/revolution/css/layers.css
-File Name: C:\Downloaded Web Sites\astriamedia.in\revolution\css\layers.css
+Uri: https://Vaibhavmedia.in/revolution/css/layers.css
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\revolution\css\layers.css
 Content Type: text/css
 
-Uri: https://astriamedia.in/revolution/css/navigation.css
-File Name: C:\Downloaded Web Sites\astriamedia.in\revolution\css\navigation.css
+Uri: https://Vaibhavmedia.in/revolution/css/navigation.css
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\revolution\css\navigation.css
 Content Type: text/css
 
-Uri: https://astriamedia.in/revolution/css/settings.css
-File Name: C:\Downloaded Web Sites\astriamedia.in\revolution\css\settings.css
+Uri: https://Vaibhavmedia.in/revolution/css/settings.css
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\revolution\css\settings.css
 Content Type: text/css
 
-Uri: https://astriamedia.in/revolution/fonts/revicons/revicons.eot?5510888
-File Name: C:\Downloaded Web Sites\astriamedia.in\revolution\fonts\revicons\revicons.eot
+Uri: https://Vaibhavmedia.in/revolution/fonts/revicons/revicons.eot?5510888
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\revolution\fonts\revicons\revicons.eot
 Content Type: application/vnd.ms-fontobject
 
-Uri: https://astriamedia.in/revolution/fonts/revicons/revicons.svg?5510888
-File Name: C:\Downloaded Web Sites\astriamedia.in\revolution\fonts\revicons\revicons.svg
+Uri: https://Vaibhavmedia.in/revolution/fonts/revicons/revicons.svg?5510888
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\revolution\fonts\revicons\revicons.svg
 Content Type: image/svg+xml
 
-Uri: https://astriamedia.in/revolution/fonts/revicons/revicons.ttf?5510888
-File Name: C:\Downloaded Web Sites\astriamedia.in\revolution\fonts\revicons\revicons.ttf
+Uri: https://Vaibhavmedia.in/revolution/fonts/revicons/revicons.ttf?5510888
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\revolution\fonts\revicons\revicons.ttf
 Content Type: application/x-font-ttf
 
-Uri: https://astriamedia.in/revolution/fonts/revicons/revicons.woff?5510888
-File Name: C:\Downloaded Web Sites\astriamedia.in\revolution\fonts\revicons\revicons.woff
+Uri: https://Vaibhavmedia.in/revolution/fonts/revicons/revicons.woff?5510888
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\revolution\fonts\revicons\revicons.woff
 Content Type: application/font-woff
 
-Uri: https://astriamedia.in/revolution/js/jquery.themepunch.revolution.min.js
-File Name: C:\Downloaded Web Sites\astriamedia.in\revolution\js\jquery.themepunch.revolution.min.js
+Uri: https://Vaibhavmedia.in/revolution/js/jquery.themepunch.revolution.min.js
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\revolution\js\jquery.themepunch.revolution.min.js
 Content Type: application/x-javascript
 
-Uri: https://astriamedia.in/revolution/js/jquery.themepunch.tools.min.js
-File Name: C:\Downloaded Web Sites\astriamedia.in\revolution\js\jquery.themepunch.tools.min.js
+Uri: https://Vaibhavmedia.in/revolution/js/jquery.themepunch.tools.min.js
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\revolution\js\jquery.themepunch.tools.min.js
 Content Type: application/x-javascript
 
-Uri: https://astriamedia.in/revolution/js/revolution.extension.actions.min.js
-File Name: C:\Downloaded Web Sites\astriamedia.in\revolution\js\revolution.extension.actions.min.js
+Uri: https://Vaibhavmedia.in/revolution/js/revolution.extension.actions.min.js
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\revolution\js\revolution.extension.actions.min.js
 Content Type: application/x-javascript
 
-Uri: https://astriamedia.in/revolution/js/revolution.extension.carousel.min.js
-File Name: C:\Downloaded Web Sites\astriamedia.in\revolution\js\revolution.extension.carousel.min.js
+Uri: https://Vaibhavmedia.in/revolution/js/revolution.extension.carousel.min.js
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\revolution\js\revolution.extension.carousel.min.js
 Content Type: application/x-javascript
 
-Uri: https://astriamedia.in/revolution/js/revolution.extension.kenburn.min.js
-File Name: C:\Downloaded Web Sites\astriamedia.in\revolution\js\revolution.extension.kenburn.min.js
+Uri: https://Vaibhavmedia.in/revolution/js/revolution.extension.kenburn.min.js
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\revolution\js\revolution.extension.kenburn.min.js
 Content Type: application/x-javascript
 
-Uri: https://astriamedia.in/revolution/js/revolution.extension.layeranimation.min.js
-File Name: C:\Downloaded Web Sites\astriamedia.in\revolution\js\revolution.extension.layeranimation.min.js
+Uri: https://Vaibhavmedia.in/revolution/js/revolution.extension.layeranimation.min.js
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\revolution\js\revolution.extension.layeranimation.min.js
 Content Type: application/x-javascript
 
-Uri: https://astriamedia.in/revolution/js/revolution.extension.migration.min.js
-File Name: C:\Downloaded Web Sites\astriamedia.in\revolution\js\revolution.extension.migration.min.js
+Uri: https://Vaibhavmedia.in/revolution/js/revolution.extension.migration.min.js
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\revolution\js\revolution.extension.migration.min.js
 Content Type: application/x-javascript
 
-Uri: https://astriamedia.in/revolution/js/revolution.extension.navigation.min.js
-File Name: C:\Downloaded Web Sites\astriamedia.in\revolution\js\revolution.extension.navigation.min.js
+Uri: https://Vaibhavmedia.in/revolution/js/revolution.extension.navigation.min.js
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\revolution\js\revolution.extension.navigation.min.js
 Content Type: application/x-javascript
 
-Uri: https://astriamedia.in/revolution/js/revolution.extension.parallax.min.js
-File Name: C:\Downloaded Web Sites\astriamedia.in\revolution\js\revolution.extension.parallax.min.js
+Uri: https://Vaibhavmedia.in/revolution/js/revolution.extension.parallax.min.js
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\revolution\js\revolution.extension.parallax.min.js
 Content Type: application/x-javascript
 
-Uri: https://astriamedia.in/revolution/js/revolution.extension.slideanims.min.js
-File Name: C:\Downloaded Web Sites\astriamedia.in\revolution\js\revolution.extension.slideanims.min.js
+Uri: https://Vaibhavmedia.in/revolution/js/revolution.extension.slideanims.min.js
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\revolution\js\revolution.extension.slideanims.min.js
 Content Type: application/x-javascript
 
-Uri: https://astriamedia.in/revolution/js/revolution.extension.video.min.js
-File Name: C:\Downloaded Web Sites\astriamedia.in\revolution\js\revolution.extension.video.min.js
+Uri: https://Vaibhavmedia.in/revolution/js/revolution.extension.video.min.js
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\revolution\js\revolution.extension.video.min.js
 Content Type: application/x-javascript
 
 Uri: https://fonts.googleapis.com/css?family=Cardo:400,400i,700|Montserrat:300,400,500,600,700,800&display=swap
-File Name: C:\Downloaded Web Sites\astriamedia.in\css
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\css
 Content Type: text/css
 
 Uri: https://fonts.gstatic.com/s/cardo/v19/wlpxgwjKBV1pqhv97IMx2Q.ttf
-File Name: C:\Downloaded Web Sites\astriamedia.in\s\cardo\v19\wlpxgwjKBV1pqhv97IMx2Q.ttf
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\s\cardo\v19\wlpxgwjKBV1pqhv97IMx2Q.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/cardo/v19/wlpygwjKBV1pqhND-ZQW-WY.ttf
-File Name: C:\Downloaded Web Sites\astriamedia.in\s\cardo\v19\wlpygwjKBV1pqhND-ZQW-WY.ttf
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\s\cardo\v19\wlpygwjKBV1pqhND-ZQW-WY.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/cardo/v19/wlp_gwjKBV1pqhv43IQ.ttf
-File Name: C:\Downloaded Web Sites\astriamedia.in\s\cardo\v19\wlp_gwjKBV1pqhv43IQ.ttf
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\s\cardo\v19\wlp_gwjKBV1pqhv43IQ.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
-File Name: C:\Downloaded Web Sites\astriamedia.in\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
-File Name: C:\Downloaded Web Sites\astriamedia.in\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
-File Name: C:\Downloaded Web Sites\astriamedia.in\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
-File Name: C:\Downloaded Web Sites\astriamedia.in\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
-File Name: C:\Downloaded Web Sites\astriamedia.in\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
-File Name: C:\Downloaded Web Sites\astriamedia.in\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\Vaibhavmedia.in\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
 Content Type: font/ttf
 
