@@ -1,0 +1,49 @@
+.profiles-container {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    gap: 20px;
+    padding: 20px;
+   
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+.user-profile {
+    display: flex;
+    align-items: center;
+    
+    padding: 10px;
+    border-radius: 10px;
+}
+.user-profile:hover {
+    transform: scale(1.05);
+}
+.user-img {
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+}
+.user-info {
+    margin-left: 10px;
+}
+.user-name {
+    font-size: 1.2em;
+    font-weight: bold;
+}
+.social-icons {
+    margin-top: 5px;
+}
+.social-icons img {
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+}
+.social-icons img:hover {
+    transform: scale(1.2);
+}
+@media(min-width: 600px) {
+    .profiles-container {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
